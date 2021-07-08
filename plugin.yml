@@ -1,0 +1,8 @@
+name: CustomStick
+version: 1.0
+author: Matt
+main: fr.matt.customstick.main
+commands:
+  customstick:
+    permission: customstick.use
+    description: Give a Heal Stick
